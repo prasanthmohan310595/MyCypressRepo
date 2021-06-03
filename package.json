@@ -1,8 +1,12 @@
 {
-  "name": "first_project",
+  "name": "myfirstcypressproject",
   "version": "1.0.0",
-  "description": "Creating by first cypress test and running it through CLI",
+  "description": "Run tests and record video",
   "main": "index.js",
+  "dependencies": {
+    "cypress": "^7.4.0"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "cypress run"
   },

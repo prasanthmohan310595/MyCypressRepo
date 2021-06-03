@@ -1,4 +1,4 @@
 .idea/*
 *.log
 *.iml
-MyCypressRepo/cypress/videos/*
+cypress/videos/*
