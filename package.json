@@ -1,0 +1,19 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "Creating by first cypress test and running it through CLI",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prasanthmohan310595/MyCypressRepo.git"
+  },
+  "author": "prasanth",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prasanthmohan310595/MyCypressRepo/issues"
+  },
+  "homepage": "https://github.com/prasanthmohan310595/MyCypressRepo#readme"
+}
